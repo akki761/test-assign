@@ -1,3 +1,11 @@
+// Q4)  Write a unit test case using spock blocks.
+
+//when and then using setup, given & and blocks.
+
+//expect using setup, given & and blocks.
+
+
+
 import org.codehaus.groovy.control.messages.ExceptionMessage
 import spock.lang.Specification
 
