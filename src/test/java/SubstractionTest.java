@@ -25,7 +25,7 @@ public class SubstractionTest {
         //Assert.assertTrue(subtract.main(str));
     }
 
-    @Ignore  //test case ignored
+    @Ignore  //     Q2) test case ignored
     public void testTheSubtractWithTwoInts() {
         int a = 10;
         int b = 20;
